@@ -1,0 +1,14 @@
+<<<<<<<<<<<<<<  ✨ Codeium Command ⭐  >>>>>>>>>>>>>>>>
+
+# Ignore files for Node.js projects
+.env
+.env.local
+.env.*.local
+.DS_Store
+node_modules
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+# Ignore files for VSCode
+.vscode
+<<<<<<<  ff5b0f88-9764-4b6e-aa93-44a54545831a  >>>>>>>
